@@ -3,28 +3,6 @@
 This project contains an interactive Power BI dashboard that provides actionable insights into retail store sales data.
 It helps stakeholders track sales trends, understand customer demographics, evaluate regional performance, and optimize marketing and inventory strategies.
 
-📊 Key Insights
-Monthly Sales Trends
-
-March recorded the highest sales, indicating seasonal demand peaks.
-
-Recommendation: Prepare inventory and marketing campaigns in advance for peak months.
-
-Customer Demographics
-
-Majority of purchases made by adult women, making them the key target audience for promotions.
-
-Delivery Insights
-
-Most orders were successfully delivered, indicating an efficient logistics process.
-
-Regional Performance
-
-Top 5 states contributed the majority of sales, suggesting focus areas for expansion and targeted campaigns.
-
-Sales Channels
-
-35 sales were made via Amazon, highlighting its role as a key online sales channel.
 
 🛠 Tools & Technologies
 Power BI – Data modeling, visualization, and interactive dashboard creation
